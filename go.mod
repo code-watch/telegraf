@@ -78,9 +78,9 @@ require (
 	github.com/hashicorp/consul/api v1.12.0
 	github.com/hashicorp/go-uuid v1.0.2
 	github.com/influxdata/go-syslog/v3 v3.0.0
-	github.com/influxdata/influxdb-observability/common v0.2.10
+	github.com/influxdata/influxdb-observability/common v0.2.11
 	github.com/influxdata/influxdb-observability/influx2otel v0.2.10
-	github.com/influxdata/influxdb-observability/otel2influx v0.2.10
+	github.com/influxdata/influxdb-observability/otel2influx v0.2.14
 	github.com/influxdata/tail v1.0.1-0.20210707231403-b283181d1fa7
 	github.com/influxdata/toml v0.0.0-20190415235208-270119a8ce65
 	github.com/influxdata/wlog v0.0.0-20160411224016-7c63b0a71ef8
@@ -117,7 +117,7 @@ require (
 	github.com/riemann/riemann-go-client v0.5.0
 	github.com/safchain/ethtool v0.0.0-20200218184317-f459e2d13664
 	github.com/sensu/sensu-go/api/core/v2 v2.13.0
-	github.com/shirou/gopsutil/v3 v3.21.12
+	github.com/shirou/gopsutil/v3 v3.22.2
 	github.com/showwin/speedtest-go v1.1.4
 	github.com/signalfx/golib/v3 v3.3.43
 	github.com/sirupsen/logrus v1.8.1
@@ -136,7 +136,7 @@ require (
 	github.com/wvanbergen/kafka v0.0.0-20171203153745-e2edea948ddf
 	github.com/xdg/scram v1.0.3
 	go.mongodb.org/mongo-driver v1.8.3
-	go.opentelemetry.io/collector/model v0.44.0
+	go.opentelemetry.io/collector/model v0.45.0
 	go.opentelemetry.io/otel/exporters/otlp/otlpmetric/otlpmetricgrpc v0.27.0
 	go.opentelemetry.io/otel/metric v0.27.0
 	go.opentelemetry.io/otel/sdk/metric v0.27.0
