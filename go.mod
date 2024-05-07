@@ -139,7 +139,7 @@ require (
 	github.com/microsoft/go-mssqldb v1.7.0
 	github.com/miekg/dns v1.1.58
 	github.com/moby/ipvs v1.1.0
-	github.com/multiplay/go-ts3 v1.1.0
+	github.com/multiplay/go-ts3 v1.2.0
 	github.com/nats-io/nats-server/v2 v2.10.9
 	github.com/nats-io/nats.go v1.32.0
 	github.com/netsampler/goflow2/v2 v2.1.3
